@@ -38,26 +38,7 @@ analytics.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Atuação Profissional:
-
-* Instituto de Direito Coletivo (IDC) - Engenheiro de Dados (Voluntário)  
-Jun 2025 - Atual | Remoto
-
-* Stringhini Varejo Inteligente - Estagiário de Data Quality  
-Fev 2024 - Atual | Remoto
-
-* Yes! Cosmetics - Estagiário Analista de Dados Comercial  
-Dez 2024 - Mai 2025 | Recife-PE
-
-## Formação Acadêmica:
-
-* Gestão da Tecnologia da Informação - Centro Universitário Maurício de Nassau  
-2024 - Atual
-
-* Gestão da Tecnologia da Informação - Instituto Federal do Sertão Pernambucano  
-2023 - 2024
-
-## Leituras:
+## Livros:
 
 * Fundamentos de Engenharia de Dados (Joe Reis e Matt Housley)
   
