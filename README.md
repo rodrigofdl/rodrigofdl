@@ -1,6 +1,6 @@
 # Olá, eu sou Rodrigo Felisberto
 
-Venha conhecer meus projetos!
+Venha conhecer os meus projetos!
 
 ## Sobre mim
 
