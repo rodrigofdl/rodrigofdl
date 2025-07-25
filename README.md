@@ -1,6 +1,8 @@
 # Olá, eu sou Rodrigo Felisberto
 
-Venha conhecer um pouco da minha jornada.
+Venha conhecer meus projetos!
+
+## Sobre mim
 
 Engenheiro de Dados especializado em transformar dados complexos em soluções estratégicas que impulsionam resultados de negócio.
 
