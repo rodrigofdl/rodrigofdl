@@ -46,8 +46,9 @@ Skills:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Livros:
+* Spark: The Definitive Guide (Bill Chambers & Matei Zaharia)
 
-* Fundamentos de Engenharia de Dados (Joe Reis e Matt Housley)
+* Fundamentos de Engenharia de Dados (Joe Reis & Matt Housley)
   
 * SQL para Análise de Dados: Técnicas avançadas para transformar dados em insights (Cathy Tanimura)
   
