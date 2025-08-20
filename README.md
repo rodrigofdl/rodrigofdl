@@ -4,11 +4,11 @@ Venha conhecer os meus projetos!
 
 ## Sobre mim
 
-Engenheiro de Dados especializado em transformar dados complexos em soluções estratégicas que impulsionam resultados de negócio.
+Engenheiro de Dados apaixonado por transformar dados brutos em informações acessíveis e úteis para apoiar decisões.
 
-Desenvolvo pipelines automatizados e implemento arquiteturas de dados em cloud que garantem qualidade, governança e escalabilidade. Minha stack principal inclui Python, SQL, Apache Airflow, Apache Spark, DBT e Docker, trabalhando com AWS, Azure e GCP.
+Desenvolvo pipelines automatizados e implemento arquiteturas de dados em cloud que garantem qualidade, governança e escalabilidade. Minha stack principal inclui Python, SQL, Airflow, Spark e DBT.
 
-Tenho experiência prática construindo data lakes, automatizando processos ETL/ELT e criando dashboards para análises em tempo real. Utilizo ferramentas de BI como Power BI, Tableau e Qlik Sense para entregar insights que direcionam decisões estratégicas.
+Tenho experiência prática construindo data lakes e data warehouses, automatizando processos ETL/ELT e criando dashboards para análises em tempo real. Utilizo ferramentas de BI como Power BI, Tableau e Qlik Sense para entregar insights que direcionam decisões estratégicas.
 
 Combino expertise técnica com foco em melhores práticas de DataOps e governança, sempre priorizando soluções que agreguem valor real ao negócio.
 
