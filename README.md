@@ -4,16 +4,15 @@ Venha conhecer os meus projetos!
 
 ## Sobre mim
 
-Engenheiro de Dados apaixonado por transformar dados brutos em informações acessíveis e úteis para apoiar decisões.
+Engenheiro de Dados apaixonado por transformar dados em decisões que geram impacto real. Atuo na construção de pipelines automatizados que garantem qualidade, governança e performance. Minha stack principal inclui Python, SQL, Airflow, Spark e DBT.
 
-Desenvolvo pipelines automatizados e implemento arquiteturas de dados em cloud que garantem qualidade, governança e escalabilidade. Minha stack principal inclui Python, SQL, Airflow, Spark e DBT.
+Tenho experiência também como Analista de Dados, construindo data lakes e data warehouses, automatizando processos ETL/ELT e criando dashboards para análises em tempo real. Utilizo ferramentas de BI como Power BI, Tableau e Qlik Sense para entregar insights que direcionam decisões estratégicas.
 
-Tenho experiência prática construindo data lakes e data warehouses, automatizando processos ETL/ELT e criando dashboards para análises em tempo real. Utilizo ferramentas de BI como Power BI, Tableau e Qlik Sense para entregar insights que direcionam decisões estratégicas.
+Sou entusiasta de DataOps e da engenharia de dados moderna, sempre buscando aprender, compartilhar conhecimento e trocar experiências com a comunidade.
 
-Combino expertise técnica com foco em melhores práticas de DataOps e governança, sempre priorizando soluções que agreguem valor real ao negócio.
+Sempre aberto a novas conexões e boas conversas sobre tecnologia, dados e inovação.
 
-Aberto a oportunidades como Engenheiro de Dados e networking com profissionais da área de dados e 
-analytics.
+📧 rodrigo.fdlira@gmail.com | 📱 (81) 98256-9704
 
 Skills:
 
@@ -27,8 +26,6 @@ Skills:
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -42,7 +39,6 @@ Skills:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Livros:
